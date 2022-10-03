@@ -1,3 +1,3 @@
 # Image-Segmentation
 
-Used Mask RNN for segmenting objects on the road.
+Used Mask RNN for segmenting cars on the road.
